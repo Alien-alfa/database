@@ -1,2120 +1,2121 @@
+
 [
   {
     "index": 0,
-    "soal": "O-D-T-R-E-K",
-    "tipe": "Profesi",
-    "jawaban": "DOKTER"
+    "question": "ODTREK",
+    "type": "Profession",
+    "answer": "DOCTOR"
   },
   {
     "index": 1,
-    "soal": "L-I-M-B-O",
-    "tipe": "Benda",
-    "jawaban": "MOBIL"
+    "question": "LIMBO",
+    "type": "Object",
+    "answer": "CAR"
   },
   {
     "index": 2,
-    "soal": "A-K-H-I-M",
-    "tipe": "Profesi",
-    "jawaban": "HAKIM"
+    "question": "END",
+    "type": "Profession",
+    "answer": "Judge"
   },
   {
     "index": 3,
-    "soal": "T-R-A-G-I",
-    "tipe": "Benda",
-    "jawaban": "GITAR"
+    "question": "TRAGY",
+    "type": "Object",
+    "answer": "GUITAR"
   },
   {
     "index": 4,
-    "soal": "A-P-S-U-I",
-    "tipe": "Benda",
-    "jawaban": "PISAU"
+    "question": "APSUI",
+    "type": "Object",
+    "answer": "KNIFE"
   },
   {
     "index": 5,
-    "soal": "A-P-I-P",
-    "tipe": "Benda",
-    "jawaban": "PIPA"
+    "question": "APIP",
+    "type": "Object",
+    "answer": "PIPE"
   },
   {
     "index": 6,
-    "soal": "M-A-Y-A",
-    "tipe": "Hewan",
-    "jawaban": "AYAM"
+    "question": "MAYA",
+    "type": "Animal",
+    "answer": "CHICKEN"
   },
   {
     "index": 7,
-    "soal": "A-K-P-L-E-A",
-    "tipe": "Benda",
-    "jawaban": "KEPALA"
+    "question": "AKPLEA",
+    "type": "Object",
+    "answer": "HEAD"
   },
   {
     "index": 8,
-    "soal": "E-O-N-K-A-R-Y",
-    "tipe": "Benda",
-    "jawaban": "KERAYON"
+    "question": "EONKARY",
+    "type": "Object",
+    "answer": "KERAYON"
   },
   {
     "index": 9,
-    "soal": "G-U-N-A",
-    "tipe": "Benda",
-    "jawaban": "UANG"
+    "question": "USE",
+    "type": "Object",
+    "answer": "MONEY"
   },
   {
     "index": 10,
-    "soal": "D-A-K-U",
-    "tipe": "Hewan",
-    "jawaban": "KUDA"
+    "question": "ONE",
+    "type": "Animal",
+    "answer": "HORSE"
   },
   {
     "index": 11,
-    "soal": "A-T-D-O-N",
-    "tipe": "Makanan",
-    "jawaban": "DONAT"
+    "question": "ATDON",
+    "type": "Food",
+    "answer": "DONAT"
   },
   {
     "index": 12,
-    "soal": "E-P-I-C",
-    "tipe": "Benda",
-    "jawaban": "PECI"
+    "question": "EPIC",
+    "type": "Object",
+    "answer": "PECI"
   },
   {
     "index": 13,
-    "soal": "G-N-U-L-A-M-P",
-    "tipe": "Kota",
-    "jawaban": "LAMPUNG"
+    "question": "GNULAMP",
+    "type": "City",
+    "answer": "LAMPUNG"
   },
   {
     "index": 14,
-    "soal": "B-U-N-R-A-K-U",
-    "tipe": "Tempat",
-    "jawaban": "KUBURAN"
+    "question": "BUNRAKU",
+    "type": "Place",
+    "answer": "GRABE"
   },
   {
     "index": 15,
-    "soal": "S-A-M-U-K",
-    "tipe": "Benda",
-    "jawaban": "KAMUS"
+    "question": "SAMUK",
+    "type": "Object",
+    "answer": "DICTIONARY"
   },
   {
     "index": 16,
-    "soal": "B-A-R-D-E-E-N",
-    "tipe": "Benda",
-    "jawaban": "BENDERA"
+    "question": "BARDEEN",
+    "type": "Object",
+    "answer": "FLAG"
   },
   {
     "index": 17,
-    "soal": "A-N-I-P-O",
-    "tipe": "Benda",
-    "jawaban": "PIANO"
+    "question": "ANIPO",
+    "type": "Object",
+    "answer": "PIANO"
   },
   {
     "index": 18,
-    "soal": "A-B-R-A-N-T-U-M",
-    "tipe": "Buah",
-    "jawaban": "RAMBUTAN"
+    "question": "ABRANTUM",
+    "type": "Fruit",
+    "answer": "HAIR"
   },
   {
     "index": 19,
-    "soal": "A-N-G-E-R-U-B",
-    "tipe": "Hewan",
-    "jawaban": "BERUANG"
+    "question": "ANGERUB",
+    "type": "Animal",
+    "answer": "BEAR"
   },
   {
     "index": 20,
-    "soal": "J-A-M-E",
-    "tipe": "Benda",
-    "jawaban": "MEJA"
+    "question": "JAME",
+    "type": "Object",
+    "answer": "TABLE"
   },
   {
     "index": 21,
-    "soal": "B-U-R-N-G-U",
-    "tipe": "Hewan",
-    "jawaban": "BURUNG"
+    "question": "BURN",
+    "type": "Animal",
+    "answer": "BIRD"
   },
   {
     "index": 22,
-    "soal": "B-E-N-G-N-A-T",
-    "tipe": "Hewan",
-    "jawaban": "BANTENG"
+    "question": "FUCK",
+    "type": "Animal",
+    "answer": "BULL"
   },
   {
     "index": 23,
-    "soal": "A-N-S-A-N",
-    "tipe": "Buah",
-    "jawaban": "NANAS"
+    "question": "ANSAN",
+    "type": "Fruit",
+    "answer": "Pineapple"
   },
   {
     "index": 24,
-    "soal": "A-I-R-D-U-N",
-    "tipe": "Buah",
-    "jawaban": "DURIAN"
+    "question": "AIRDUN",
+    "type": "Fruit",
+    "answer": "DURIAN"
   },
   {
     "index": 25,
-    "soal": "K-A-I-N",
-    "tipe": "Hewan",
-    "jawaban": "IKAN"
+    "question": "FABRIC",
+    "type": "Animal",
+    "answer": "FISH"
   },
   {
     "index": 26,
-    "soal": "I-N-P-U-T",
-    "tipe": "Benda",
-    "jawaban": "PINTU"
+    "question": "INPUT",
+    "type": "Object",
+    "answer": "DOOR"
   },
   {
     "index": 27,
-    "soal": "A-N-U-M-K-Y",
-    "tipe": "Hewan",
-    "jawaban": "NYAMUK"
+    "question": "ANUMKY",
+    "type": "Animal",
+    "answer": "mosquito"
   },
   {
     "index": 28,
-    "soal": "A-D-L-A-N-S",
-    "tipe": "Benda",
-    "jawaban": "SANDAL"
+    "question": "ADLANS",
+    "type": "Object",
+    "answer": "SANDAL"
   },
   {
     "index": 29,
-    "soal": "A-K-E-B-U-R",
-    "tipe": "Hewan",
-    "jawaban": "KERBAU"
+    "question": "AKEBUR",
+    "type": "Animal",
+    "answer": "BOW"
   },
   {
     "index": 30,
-    "soal": "S-T-R-E-A-K",
-    "tipe": "Benda",
-    "jawaban": "KERTAS"
+    "question": "STREAK",
+    "type": "Object",
+    "answer": "PAPER"
   },
   {
     "index": 31,
-    "soal": "G-E-N-P-O-T",
-    "tipe": "Benda",
-    "jawaban": "TOPENG"
+    "question": "GENPOT",
+    "type": "Object",
+    "answer": "MASK"
   },
   {
     "index": 32,
-    "soal": "A-S-B-U-N",
-    "tipe": "Benda",
-    "jawaban": "SABUN"
+    "question": "ASBUN",
+    "type": "Object",
+    "answer": "SOAP"
   },
   {
     "index": 33,
-    "soal": "A-U-N-T",
-    "tipe": "Hewan",
-    "jawaban": "UNTA"
+    "question": "AUNT",
+    "type": "Animal",
+    "answer": "camel"
   },
   {
     "index": 34,
-    "soal": "I-L-N-I-L",
-    "tipe": "Benda",
-    "jawaban": "LILIN"
+    "question": "ILNIL",
+    "type": "Object",
+    "answer": "CANDLE"
   },
   {
     "index": 35,
-    "soal": "M-A-J",
-    "tipe": "Benda",
-    "jawaban": "JAM"
+    "question": "MAJ",
+    "type": "Object",
+    "answer": "HOUR"
   },
   {
     "index": 36,
-    "soal": "A-K-U-P",
-    "tipe": "Benda",
-    "jawaban": "PAKU"
+    "question": "AKUP",
+    "type": "Object",
+    "answer": "NAIL"
   },
   {
     "index": 37,
-    "soal": "A-P-I-N-G-S",
-    "tipe": "Buah",
-    "jawaban": "PISANG"
+    "question": "APINGS",
+    "type": "Fruit",
+    "answer": "BANANA"
   },
   {
     "index": 38,
-    "soal": "A-T-S",
-    "tipe": "Benda",
-    "jawaban": "TAS"
+    "question": "ATS",
+    "type": "Object",
+    "answer": "BAG"
   },
   {
     "index": 39,
-    "soal": "I-R-K-U-S",
-    "tipe": "Benda",
-    "jawaban": "KURSI"
+    "question": "IRKUS",
+    "type": "Object",
+    "answer": "CHAIR"
   },
   {
     "index": 40,
-    "soal": "I-P-S-A",
-    "tipe": "Hewan",
-    "jawaban": "SAPI"
+    "question": "IPSA",
+    "type": "Animal",
+    "answer": "COW"
   },
   {
     "index": 41,
-    "soal": "B-A-N-G-K-I-M",
-    "tipe": "Hewan",
-    "jawaban": "KAMBING"
+    "question": "waking up",
+    "type": "Animal",
+    "answer": "GOAT"
   },
   {
     "index": 42,
-    "soal": "R-A-U-L",
-    "tipe": "Hewan",
-    "jawaban": "ULAR"
+    "question": "RAUL",
+    "type": "Animal",
+    "answer": "Snake"
   },
   {
     "index": 43,
-    "soal": "A-L-B-T-A-N",
-    "tipe": "Benda",
-    "jawaban": "BANTAL"
+    "question": "ALBTAN",
+    "type": "Object",
+    "answer": "PILLOW"
   },
   {
     "index": 44,
-    "soal": "E-L-M-I-R-A",
-    "tipe": "Benda",
-    "jawaban": "LEMARI"
+    "question": "ELMIRA",
+    "type": "Object",
+    "answer": "CLOTHER"
   },
   {
     "index": 45,
-    "soal": "S-U-I-T",
-    "tipe": "Benda",
-    "jawaban": "TISU"
+    "question": "SUIT",
+    "type": "Object",
+    "answer": "Tissue"
   },
   {
     "index": 46,
-    "soal": "G-I-N-R-I-P",
-    "tipe": "Benda",
-    "jawaban": "PIRING"
+    "question": "GINRIP",
+    "type": "Object",
+    "answer": "DISH"
   },
   {
     "index": 47,
-    "soal": "A-L-B-I",
-    "tipe": "Tempat",
-    "jawaban": "BALI"
+    "question": "ALBI",
+    "type": "Place",
+    "answer": "BALI"
   },
   {
     "index": 48,
-    "soal": "S-P-I-N-E-L",
-    "tipe": "Benda",
-    "jawaban": "PENSIL"
+    "question": "SPINEL",
+    "type": "Object",
+    "answer": "PENCIL"
   },
   {
     "index": 49,
-    "soal": "T-U-B-A",
-    "tipe": "Benda",
-    "jawaban": "BATU"
+    "question": "TUBA",
+    "type": "Object",
+    "answer": "STONE"
   },
   {
     "index": 50,
-    "soal": "A-T-A-B",
-    "tipe": "Benda",
-    "jawaban": "BATA"
+    "question": "ATAB",
+    "type": "Object",
+    "answer": "BATA"
   },
   {
     "index": 51,
-    "soal": "A-P-U-S",
-    "tipe": "Benda",
-    "jawaban": "SAPU"
+    "question": "APUS",
+    "type": "Object",
+    "answer": "Broom"
   },
   {
     "index": 52,
-    "soal": "B-R-O-G-O",
-    "tipe": "Kota",
-    "jawaban": "BOGOR"
+    "question": "BROGO",
+    "type": "City",
+    "answer": "BOGOR"
   },
   {
     "index": 53,
-    "soal": "A-N-I-S-U-L-K",
-    "tipe": "Benda",
-    "jawaban": "LUKISAN"
+    "question": "ANISULK",
+    "type": "Object",
+    "answer": "PAINTING"
   },
   {
     "index": 54,
-    "soal": "K-U-S-A-L-K",
-    "tipe": "Benda",
-    "jawaban": "KULKAS"
+    "question": "KUSALK",
+    "type": "Object",
+    "answer": "refrigerator"
   },
   {
     "index": 55,
-    "soal": "A-K-D-A-B",
-    "tipe": "Hewan",
-    "jawaban": "BADAK"
+    "question": "AKDAB",
+    "type": "Animal",
+    "answer": "Rhinoceros"
   },
   {
     "index": 56,
-    "soal": "A-H-J-A-G",
-    "tipe": "Hewan",
-    "jawaban": "GAJAH"
+    "question": "AHJAG",
+    "type": "Animal",
+    "answer": "ELEPHANT"
   },
   {
     "index": 57,
-    "soal": "A-N-Y-P-U-G",
-    "tipe": "Benda",
-    "jawaban": "PAYUNG"
+    "question": "ANYPUG",
+    "type": "Object",
+    "answer": "umbrella"
   },
   {
     "index": 58,
-    "soal": "A-D-H-U-N-K",
-    "tipe": "Benda",
-    "jawaban": "HANDUK"
+    "question": "ADHUNK",
+    "type": "Object",
+    "answer": "TOWELS"
   },
   {
     "index": 59,
-    "soal": "A-S-M-A-N-G-E",
-    "tipe": "Buah",
-    "jawaban": "SEMANGKA"
+    "question": "ASMANGE",
+    "type": "Fruit",
+    "answer": "WATERMONE"
   },
   {
     "index": 60,
-    "soal": "A-S-E-T-U-P",
-    "tipe": "Benda",
-    "jawaban": "SEPATU"
+    "question": "SETUP",
+    "type": "Object",
+    "answer": "SHOES"
   },
   {
     "index": 61,
-    "soal": "G-U-R-A-P",
-    "tipe": "Benda",
-    "jawaban": "GARPU"
+    "question": "GURAP",
+    "type": "Object",
+    "answer": "Fork"
   },
   {
     "index": 62,
-    "soal": "C-U-K-I-N-G",
-    "tipe": "Hewan",
-    "jawaban": "KUCING"
+    "question": "CUKING",
+    "type": "Animal",
+    "answer": "CAT"
   },
   {
     "index": 63,
-    "soal": "B-A-M-O-D",
-    "tipe": "Hewan",
-    "jawaban": "DOMBA"
+    "question": "BAMOD",
+    "type": "Animal",
+    "answer": "sheep"
   },
   {
     "index": 64,
-    "soal": "T-H-O-L-E",
-    "tipe": "Tempat",
-    "jawaban": "HOTEL"
+    "question": "THOLE",
+    "type": "Place",
+    "answer": "HOTEL"
   },
   {
     "index": 65,
-    "soal": "H-E-A-P-J-A-R",
-    "tipe": "Hewan",
-    "jawaban": "JERAPAH"
+    "question": "HEAPJAR",
+    "type": "Animal",
+    "answer": "Giraffe"
   },
   {
     "index": 66,
-    "soal": "L-A-T-H-E",
-    "tipe": "Tempat",
-    "jawaban": "HALTE"
+    "question": "LATHE",
+    "type": "Place",
+    "answer": "HALTE"
   },
   {
     "index": 67,
-    "soal": "E-R-I-C-M-N",
-    "tipe": "Benda",
-    "jawaban": "CERMIN"
+    "question": "ERICMN",
+    "type": "Object",
+    "answer": "MIRROR"
   },
   {
     "index": 68,
-    "soal": "M-O-P-E-T-U-R-K",
-    "tipe": "Benda",
-    "jawaban": "KOMPUTER"
+    "question": "MOPETURK",
+    "type": "Object",
+    "answer": "COMPUTER"
   },
   {
     "index": 69,
-    "soal": "M-E-T-R-O-S",
-    "tipe": "Benda",
-    "jawaban": "TERMOS"
+    "question": "METROS",
+    "type": "Object",
+    "answer": "TERMOS"
   },
   {
     "index": 70,
-    "soal": "A-C-L-E-A-N",
-    "tipe": "Benda",
-    "jawaban": "CELANA"
+    "question": "ACLEAN",
+    "type": "Object",
+    "answer": "PANTS"
   },
   {
     "index": 71,
-    "soal": "A-I-R-I-T",
-    "tipe": "Benda",
-    "jawaban": "TIRAI"
+    "question": "AIRIT",
+    "type": "Object",
+    "answer": "CURTAINS"
   },
   {
     "index": 72,
-    "soal": "A-N-D-R-A-B-A",
-    "tipe": "Tempat",
-    "jawaban": "BANDARA"
+    "question": "ANDRABA",
+    "type": "Place",
+    "answer": "AIRPORT"
   },
   {
     "index": 73,
-    "soal": "S-U-U-S",
-    "tipe": "Organ",
-    "jawaban": "USUS"
+    "question": "SUUS",
+    "type": "Organ",
+    "answer": "BOT"
   },
   {
     "index": 74,
-    "soal": "A-G-E-N-T-N-B",
-    "tipe": "Hewan",
-    "jawaban": "BANTENG"
+    "question": "AGENTNB",
+    "type": "Animal",
+    "answer": "BULL"
   },
   {
     "index": 75,
-    "soal": "A-K-A-D-B",
-    "tipe": "Hewan",
-    "jawaban": "BADAK"
+    "question": "AKADB",
+    "type": "Animal",
+    "answer": "Rhinoceros"
   },
   {
     "index": 76,
-    "soal": "E-M-N-O-L",
-    "tipe": "Buah",
-    "jawaban": "LEMON"
+    "question": "EMNOL",
+    "type": "Fruit",
+    "answer": "LEMON"
   },
   {
     "index": 77,
-    "soal": "D-A-N-N-A-K-G",
-    "tipe": "Tempat",
-    "jawaban": "KANDANG"
+    "question": "DANNAKG",
+    "type": "Place",
+    "answer": "COA"
   },
   {
     "index": 78,
-    "soal": "A-P-S-I-N-G",
-    "tipe": "Buah",
-    "jawaban": "PISANG"
+    "question": "APSING",
+    "type": "Fruit",
+    "answer": "BANANA"
   },
   {
     "index": 79,
-    "soal": "L-I-S-E-T-T-A",
-    "tipe": "Benda",
-    "jawaban": "SATELIT"
+    "question": "LISETTA",
+    "type": "Object",
+    "answer": "SATELLITE"
   },
   {
     "index": 80,
-    "soal": "A-K-E-B-C",
-    "tipe": "Benda",
-    "jawaban": "BECAK"
+    "question": "AKEBC",
+    "type": "Object",
+    "answer": "rickshaw"
   },
   {
     "index": 81,
-    "soal": "A-N-A-B-U-G",
-    "tipe": "Hewan",
-    "jawaban": "BANGAU"
+    "question": "ANABUG",
+    "type": "Animal",
+    "answer": "stork"
   },
   {
     "index": 82,
-    "soal": "A-N-B-U-G",
-    "tipe": "Tumbuhan",
-    "jawaban": "BUNGA"
+    "question": "ANBUG",
+    "type": "Plants",
+    "answer": "FLOWER"
   },
   {
     "index": 83,
-    "soal": "I-P-T-U-N",
-    "tipe": "Benda",
-    "jawaban": "PINTU"
+    "question": "IPTUN",
+    "type": "Object",
+    "answer": "DOOR"
   },
   {
     "index": 84,
-    "soal": "I-P-K-O",
-    "tipe": "Benda",
-    "jawaban": "KOPI"
+    "question": "IPKO",
+    "type": "Object",
+    "answer": "COFFEE"
   },
   {
     "index": 85,
-    "soal": "A-K-R-U-B-E",
-    "tipe": "Hewan",
-    "jawaban": "KERBAU"
+    "question": "ACRUBE",
+    "type": "Animal",
+    "answer": "BOW"
   },
   {
     "index": 86,
-    "soal": "D-I-N-G-U-H",
-    "tipe": "Bagian Tubuh",
-    "jawaban": "HIDUNG"
+    "question": "DINGUH",
+    "type": "Body Part",
+    "answer": "NOSE"
   },
   {
     "index": 87,
-    "soal": "L-I-P-T-O",
-    "tipe": "Pekerjaan",
-    "jawaban": "PILOT"
+    "question": "LIPTO",
+    "type": "Job",
+    "answer": "PILOT"
   },
   {
     "index": 88,
-    "soal": "A-C-L-E-A-N",
-    "tipe": "Benda",
-    "jawaban": "CELANA"
+    "question": "ACLEAN",
+    "type": "Object",
+    "answer": "PANTS"
   },
   {
     "index": 89,
-    "soal": "H-A-N-A-L-A-M",
-    "tipe": "BENDA",
-    "jawaban": "HALAMAN"
+    "question": "HANALAM",
+    "type": "OBJECT",
+    "answer": "PAGE"
   },
   {
     "index": 90,
-    "soal": "G-A-B-W-A-N",
-    "tipe": "Tumbuhan",
-    "jawaban": "BAWANG"
+    "question": "GABWAN",
+    "type": "Plants",
+    "answer": "ONION"
   },
   {
     "index": 91,
-    "soal": "U-C-T-A-R",
-    "tipe": "Benda",
-    "jawaban": "CATUR"
+    "question": "UCTAR",
+    "type": "Object",
+    "answer": "chess"
   },
   {
     "index": 92,
-    "soal": "M-R-T-O-O",
-    "tipe": "Benda",
-    "jawaban": "MOTOR"
+    "question": "MRTOO",
+    "type": "Object",
+    "answer": "MOTORCYCLE"
   },
   {
     "index": 93,
-    "soal": "L-E-A-K-S",
-    "tipe": "Tempat",
-    "jawaban": "KELAS"
+    "question": "LEAKS",
+    "type": "Place",
+    "answer": "CLASS"
   },
   {
     "index": 94,
-    "soal": "A-K-E-H-O-L-S",
-    "tipe": "Tempat",
-    "jawaban": "SEKOLAH"
+    "question": "AKEHOLS",
+    "type": "Place",
+    "answer": "SCHOOL"
   },
   {
     "index": 95,
-    "soal": "J-I-G-N-A-N",
-    "tipe": "Hewan",
-    "jawaban": "ANJING"
+    "question": "JIGNAN",
+    "type": "Animal",
+    "answer": "DOG"
   },
   {
     "index": 96,
-    "soal": "S-A-B-E-R",
-    "tipe": "Benda",
-    "jawaban": "BERAS"
+    "question": "SABER",
+    "type": "Object",
+    "answer": "RICE"
   },
   {
     "index": 97,
-    "soal": "M-U-T-E-S",
-    "tipe": "Hewan",
-    "jawaban": "SEMUT"
+    "question": "MUTES",
+    "type": "Animal",
+    "answer": "ANT"
   },
   {
     "index": 98,
-    "soal": "D-A-K-U-H-N",
-    "tipe": "Benda",
-    "jawaban": "HANDUK"
+    "question": "DAKUHN",
+    "type": "Object",
+    "answer": "TOWELS"
   },
   {
     "index": 99,
-    "soal": "A-L-E-N-E-D-J",
-    "tipe": "Benda",
-    "jawaban": "JENDELA"
+    "question": "ALENEDJ",
+    "type": "Object",
+    "answer": "WINDOW"
   },
   {
     "index": 100,
-    "soal": "A-U-G-I-N-S",
-    "tipe": "Tempat",
-    "jawaban": "SUNGAI"
+    "question": "AUGINS",
+    "type": "Place",
+    "answer": "RIVER"
   },
   {
     "index": 101,
-    "soal": "A-K-P-E-A-L",
-    "tipe": "Buah",
-    "jawaban": "KELAPA"
+    "question": "AKPEAL",
+    "type": "Fruit",
+    "answer": "COCONUT"
   },
   {
     "index": 102,
-    "soal": "G-L-U-O-N-N-B",
-    "tipe": "Hewan",
-    "jawaban": "BUNGLON"
+    "question": "GLUONNB",
+    "type": "Animal",
+    "answer": "CHAMEL"
   },
   {
     "index": 103,
-    "soal": "A-A-R-C",
-    "tipe": "Makanan",
-    "jawaban": "ACAR"
+    "question": "AARC",
+    "type": "Food",
+    "answer": "PICKLES"
   },
   {
     "index": 104,
-    "soal": "E-L-H-A-T",
-    "tipe": "Tempst",
-    "jawaban": "HALTE"
+    "question": "ELHAT",
+    "type": "Tempst",
+    "answer": "HALTE"
   },
   {
     "index": 105,
-    "soal": "A-H-A-W-S",
-    "tipe": "Tempat",
-    "jawaban": "SAWAH"
+    "question": "AHAWS",
+    "type": "Place",
+    "answer": "RICE"
   },
   {
     "index": 106,
-    "soal": "D-A-R-A-B-A-N",
-    "tipe": "Tempat",
-    "jawaban": "BANDARA"
+    "question": "DARBAN",
+    "type": "Place",
+    "answer": "AIRPORT"
   },
   {
     "index": 107,
-    "soal": "U-H-I",
-    "tipe": "Hewan",
-    "jawaban": "HIU"
+    "question": "UHI",
+    "type": "Animal",
+    "answer": "SHARK"
   },
   {
     "index": 108,
-    "soal": "L-O-K",
-    "tipe": "Sayuran",
-    "jawaban": "KOL"
+    "question": "LOK",
+    "type": "Vegetable",
+    "answer": "KOL"
   },
   {
     "index": 109,
-    "soal": "N-A-B",
-    "tipe": "Benda",
-    "jawaban": "BAN"
+    "question": "NAV",
+    "type": "Object",
+    "answer": "BAN"
   },
   {
     "index": 110,
-    "soal": "B-R-O",
-    "tipe": "Benda",
-    "jawaban": "BOR"
+    "question": "BRO",
+    "type": "Object",
+    "answer": "BORN"
   },
   {
     "index": 111,
-    "soal": "E-R-P",
-    "tipe": "Benda",
-    "jawaban": "PER"
+    "question": "ERP",
+    "type": "Object",
+    "answer": "PER"
   },
   {
     "index": 112,
-    "soal": "A-U-J-B",
-    "tipe": "Tempat",
-    "jawaban": "BAJU"
+    "question": "AUJB",
+    "type": "Place",
+    "answer": "CLOTHING"
   },
   {
     "index": 113,
-    "soal": "P-E-A-L",
-    "tipe": "Buah",
-    "jawaban": "APEL"
+    "question": "PEAL",
+    "type": "Fruit",
+    "answer": "APPLE"
   },
   {
     "index": 114,
-    "soal": "K-U-B-U",
-    "tipe": "Benda",
-    "jawaban": "BUKU"
+    "question": "BUB",
+    "type": "Object",
+    "answer": "BOOK"
   },
   {
     "index": 115,
-    "soal": "B-A-L-O",
-    "tipe": "Benda",
-    "jawaban": "BOLA"
+    "question": "BALO",
+    "type": "Object",
+    "answer": "BALL"
   },
   {
     "index": 116,
-    "soal": "A-C-B-E",
-    "tipe": "Sayuran",
-    "jawaban": "CABE"
+    "question": "ACBE",
+    "type": "Vegetable",
+    "answer": "CABE"
   },
   {
     "index": 117,
-    "soal": "F-I-R-E",
-    "tipe": "Benda",
-    "jawaban": "FERI"
+    "question": "FIRE",
+    "type": "Object",
+    "answer": "FERRY"
   },
   {
     "index": 118,
-    "soal": "R-U-I-N",
-    "tipe": "Hewan",
-    "jawaban": "NURI"
+    "question": "RUIN",
+    "type": "Animal",
+    "answer": "NURI"
   },
   {
     "index": 119,
-    "soal": "Y-O-O-Y",
-    "tipe": "Benda",
-    "jawaban": "YOYO"
+    "question": "YOOY",
+    "type": "Object",
+    "answer": "YOYO"
   },
   {
     "index": 120,
-    "soal": "F-A-S-O",
-    "tipe": "Benda",
-    "jawaban": "SOFA"
+    "question": "FASO",
+    "type": "Object",
+    "answer": "SOFA"
   },
   {
     "index": 121,
-    "soal": "I-L-T-A",
-    "tipe": "Benda",
-    "jawaban": "TALI"
+    "question": "ILTA",
+    "type": "Object",
+    "answer": "ROPE"
   },
   {
     "index": 122,
-    "soal": "S-U-R-A",
-    "tipe": "Hewan",
-    "jawaban": "RUSA"
+    "question": "SURA",
+    "type": "Animal",
+    "answer": "DEER"
   },
   {
     "index": 123,
-    "soal": "P-A-U-L",
-    "tipe": "Benda",
-    "jawaban": "PALU"
+    "question": "PAUL",
+    "type": "Object",
+    "answer": "hammer"
   },
   {
     "index": 124,
-    "soal": "E-L-E-L",
-    "tipe": "Hewan",
-    "jawaban": "LELE"
+    "question": "ELEL",
+    "type": "Animal",
+    "answer": "LELE"
   },
   {
     "index": 125,
-    "soal": "P-I-T-O",
-    "tipe": "Benda",
-    "jawaban": "TOPI"
+    "question": "PITO",
+    "type": "Object",
+    "answer": "HAT"
   },
   {
     "index": 126,
-    "soal": "A-B-U-L",
-    "tipe": "Sayuran",
-    "jawaban": "LABU"
+    "question": "ABUL",
+    "type": "Vegetable",
+    "answer": "Pumpkin"
   },
   {
     "index": 127,
-    "soal": "A-Y-U-K",
-    "tipe": "Benda",
-    "jawaban": "KAYU"
+    "question": "OK",
+    "type": "Object",
+    "answer": "WOOD"
   },
   {
     "index": 128,
-    "soal": "L-I-C-E",
-    "tipe": "Buah",
-    "jawaban": "LECI"
+    "question": "LICE",
+    "type": "Fruit",
+    "answer": "LECI"
   },
   {
     "index": 129,
-    "soal": "L-A-J-A",
-    "tipe": "Benda",
-    "jawaban": "JALA"
+    "question": "LAJA",
+    "type": "Object",
+    "answer": "JALA"
   },
   {
     "index": 130,
-    "soal": "S-A-U-K",
-    "tipe": "Benda",
-    "jawaban": "KUAS"
+    "question": "SAUK",
+    "type": "Object",
+    "answer": "Brush"
   },
   {
     "index": 131,
-    "soal": "D-I-A-S",
-    "tipe": "Benda",
-    "jawaban": "DASI"
+    "question": "DIAS",
+    "type": "Object",
+    "answer": "TIE"
   },
   {
     "index": 132,
-    "soal": "L-A-U-T",
-    "tipe": "Hewan",
-    "jawaban": "ULAT"
+    "question": "SEA",
+    "type": "Animal",
+    "answer": "CURRENT"
   },
   {
     "index": 133,
-    "soal": "G-A-N-T",
-    "tipe": "Benda",
-    "jawaban": "TANG"
+    "question": "GANT",
+    "type": "Object",
+    "answer": "TANG"
   },
   {
     "index": 134,
-    "soal": "A-P-U-S",
-    "tipe": "Hewan",
-    "jawaban": "PAUS"
+    "question": "APUS",
+    "type": "Animal",
+    "answer": "POPE"
   },
   {
     "index": 135,
-    "soal": "U-U-Y-Y",
-    "tipe": "Hewan",
-    "jawaban": "YUYU"
+    "question": "UUYY",
+    "type": "Animal",
+    "answer": "YUYU"
   },
   {
     "index": 136,
-    "soal": "A-W-I-S",
-    "tipe": "Sayuran",
-    "jawaban": "SAWI"
+    "question": "AWIS",
+    "type": "Vegetable",
+    "answer": "SAWI"
   },
   {
     "index": 137,
-    "soal": "E-T-G-O",
-    "tipe": "Sayuran",
-    "jawaban": "TOGE"
+    "question": "ETGO",
+    "type": "Vegetable",
+    "answer": "TOGE"
   },
   {
     "index": 138,
-    "soal": "A-S-O-W",
-    "tipe": "Buah",
-    "jawaban": "SAWO"
+    "question": "ASOW",
+    "type": "Fruit",
+    "answer": "SAWO"
   },
   {
     "index": 139,
-    "soal": "R-I-C-E",
-    "tipe": "Buah",
-    "jawaban": "CERI"
+    "question": "RICE",
+    "type": "Fruit",
+    "answer": "CHERRY"
   },
   {
     "index": 140,
-    "soal": "I-K-A-L",
-    "tipe": "Benda",
-    "jawaban": "KAIL"
+    "question": "CIC",
+    "type": "Object",
+    "answer": "HOOK"
   },
   {
     "index": 141,
-    "soal": "A-R-E-P",
-    "tipe": "Sayuran",
-    "jawaban": "PARE"
+    "question": "AREP",
+    "type": "Vegetable",
+    "answer": "PARE"
   },
   {
     "index": 142,
-    "soal": "D-A-R-O",
-    "tipe": "Benda",
-    "jawaban": "RODA"
+    "question": "DARO",
+    "type": "Object",
+    "answer": "WHEEL"
   },
   {
     "index": 143,
-    "soal": "L-E-M-H",
-    "tipe": "Benda",
-    "jawaban": "HELM"
+    "question": "LEMH",
+    "type": "Object",
+    "answer": "HELMET"
   },
   {
     "index": 144,
-    "soal": "P-A-L-E",
-    "tipe": "Buah",
-    "jawaban": "APEL"
+    "question": "PALE",
+    "type": "Fruit",
+    "answer": "APPLE"
   },
   {
     "index": 145,
-    "soal": "R-U-M-D",
-    "tipe": "Benda",
-    "jawaban": "DRUM"
+    "question": "RUMD",
+    "type": "Object",
+    "answer": "Drums"
   },
   {
     "index": 146,
-    "soal": "A-R-E-K",
-    "tipe": "Hewan",
-    "jawaban": "KERA"
+    "question": "AREK",
+    "type": "Animal",
+    "answer": "APE"
   },
   {
     "index": 147,
-    "soal": "K-A-N-T",
-    "tipe": "Benda",
-    "jawaban": "TANK"
+    "question": "KANT",
+    "type": "Object",
+    "answer": "TANK"
   },
   {
     "index": 148,
-    "soal": "U-R-U-G",
-    "tipe": "Pekerjaan",
-    "jawaban": "GURU"
+    "question": "URUG",
+    "type": "Job",
+    "answer": "Teacher"
   },
   {
     "index": 149,
-    "soal": "K-O-I-K",
-    "tipe": "Pekerjaan",
-    "jawaban": "KOKI"
+    "question": "KOIK",
+    "type": "Job",
+    "answer": "COOK"
   },
   {
     "index": 150,
-    "soal": "A-M-P-U-L",
-    "tipe": "Benda",
-    "jawaban": "LAMPU"
+    "question": "AMPULE",
+    "type": "Object",
+    "answer": "LIGHTS"
   },
   {
     "index": 151,
-    "soal": "J-R-U-K-E",
-    "tipe": "Buah",
-    "jawaban": "JERUK"
+    "question": "JRUKE",
+    "type": "Fruit",
+    "answer": "Orange"
   },
   {
     "index": 152,
-    "soal": "G-A-L-E-N",
-    "tipe": "Hewan",
-    "jawaban": "ELANG"
+    "question": "GALEN",
+    "type": "Animal",
+    "answer": "eagle"
   },
   {
     "index": 153,
-    "soal": "B-E-R-E-M",
-    "tipe": "Benda",
-    "jawaban": "EMBER"
+    "question": "BEREM",
+    "type": "Object",
+    "answer": "BUcket"
   },
   {
     "index": 154,
-    "soal": "B-E-G-O-N",
-    "tipe": "Benda",
-    "jawaban": "OBENG"
+    "question": "BEGON",
+    "type": "Object",
+    "answer": "screwdriver"
   },
   {
     "index": 155,
-    "soal": "A-A-L-I-P",
-    "tipe": "Benda",
-    "jawaban": "PIALA"
+    "question": "AALIP",
+    "type": "Object",
+    "answer": "CUP"
   },
   {
     "index": 156,
-    "soal": "H-A-R-U-M",
-    "tipe": "Benda",
-    "jawaban": "RUMAH"
+    "question": "HARUM",
+    "type": "Object",
+    "answer": "HOUSE"
   },
   {
     "index": 157,
-    "soal": "G-A-I-N-S",
-    "tipe": "Hewan",
-    "jawaban": "SINGA"
+    "question": "GAINS",
+    "type": "Animal",
+    "answer": "LION"
   },
   {
     "index": 158,
-    "soal": "K-U-S-I-T",
-    "tipe": "Hewan",
-    "jawaban": "TIKUS"
+    "question": "PUSH",
+    "type": "Animal",
+    "answer": "RAT"
   },
   {
     "index": 159,
-    "soal": "J-A-W-N-A",
-    "tipe": "Benda",
-    "jawaban": "WAJAN"
+    "question": "JAWNA",
+    "type": "Object",
+    "answer": "FIG"
   },
   {
     "index": 160,
-    "soal": "B-R-A-Z-E",
-    "tipe": "Hewan",
-    "jawaban": "ZEBRA"
+    "question": "BRAZE",
+    "type": "Animal",
+    "answer": "ZEBRA"
   },
   {
     "index": 161,
-    "soal": "L-I-T-O-R",
-    "tipe": "Benda",
-    "jawaban": "TROLI"
+    "question": "LITOR",
+    "type": "Object",
+    "answer": "TROLL"
   },
   {
     "index": 162,
-    "soal": "A-C-M-A-N",
-    "tipe": "Hewan",
-    "jawaban": "MACAN"
+    "question": "ACMAN",
+    "type": "Animal",
+    "answer": "TIGER"
   },
   {
     "index": 163,
-    "soal": "M-I-N-U-T",
-    "tipe": "Sayuran",
-    "jawaban": "TIMUN"
+    "question": "MINUT",
+    "type": "Vegetable",
+    "answer": "cucumber"
   },
   {
     "index": 164,
-    "soal": "B-A-N-O-L",
-    "tipe": "Benda",
-    "jawaban": "BALON"
+    "question": "BANOL",
+    "type": "Object",
+    "answer": "BALLOON"
   },
   {
     "index": 165,
-    "soal": "P-A-N-I-C",
-    "tipe": "Benda",
-    "jawaban": "PANCI"
+    "question": "PANIC",
+    "type": "Object",
+    "answer": "PAN"
   },
   {
     "index": 166,
-    "soal": "C-U-I-N-K",
-    "tipe": "Benda",
-    "jawaban": "KUNCI"
+    "question": "CUINK",
+    "type": "Object",
+    "answer": "KEY"
   },
   {
     "index": 167,
-    "soal": "A-P-A-N-D",
-    "tipe": "Hewan",
-    "jawaban": "PANDA"
+    "question": "APAND",
+    "type": "Animal",
+    "answer": "PANDA"
   },
   {
     "index": 168,
-    "soal": "A-D-N-E-T",
-    "tipe": "Benda",
-    "jawaban": "TENDA"
+    "question": "ADNET",
+    "type": "Object",
+    "answer": "TENT"
   },
   {
     "index": 169,
-    "soal": "N-O-B-I-S",
-    "tipe": "Hewan",
-    "jawaban": "BISON"
+    "question": "NOBIS",
+    "type": "Animal",
+    "answer": "BISON"
   },
   {
     "index": 170,
-    "soal": "E-L-M-O-N",
-    "tipe": "Buah",
-    "jawaban": "MELON"
+    "question": "ELMON",
+    "type": "Fruit",
+    "answer": "MELOON"
   },
   {
     "index": 171,
-    "soal": "A-T-R-I-P",
-    "tipe": "Hewan",
-    "jawaban": "TAPIR"
+    "question": "ATRIP",
+    "type": "Animal",
+    "answer": "TAPIR"
   },
   {
     "index": 172,
-    "soal": "S-I-R-S-I",
-    "tipe": "Benda",
-    "jawaban": "SISIR"
+    "question": "SIRSI",
+    "type": "Object",
+    "answer": "COMB"
   },
   {
     "index": 173,
-    "soal": "R-U-S-A-K",
-    "tipe": "Benda",
-    "jawaban": "KASUR"
+    "question": "DAMAGE",
+    "type": "Object",
+    "answer": "MATTE"
   },
   {
     "index": 174,
-    "soal": "P-O-K-E-R",
-    "tipe": "Benda",
-    "jawaban": "KOPER"
+    "question": "POKER",
+    "type": "Object",
+    "answer": "SUGGEST"
   },
   {
     "index": 175,
-    "soal": "A-L-E-G-S",
-    "tipe": "Benda",
-    "jawaban": "GELAS"
+    "question": "ALEGS",
+    "type": "Object",
+    "answer": "GLASS"
   },
   {
     "index": 176,
-    "soal": "A-D-G-U-N",
-    "tipe": "Hewan",
-    "jawaban": "UDANG"
+    "question": "ADGUN",
+    "type": "Animal",
+    "answer": "SHRIMP"
   },
   {
     "index": 177,
-    "soal": "S-P-I-N-O",
-    "tipe": "Benda",
-    "jawaban": "SPION"
+    "question": "SPINO",
+    "type": "Object",
+    "answer": "SPION"
   },
   {
     "index": 178,
-    "soal": "A-T-A-L-L",
-    "tipe": "Hewan",
-    "jawaban": "LALAT"
+    "question": "ATALL",
+    "type": "Animal",
+    "answer": "FLY"
   },
   {
     "index": 179,
-    "soal": "J-A-B-M-U",
-    "tipe": "Buah",
-    "jawaban": "JAMBU"
+    "question": "ANSWER",
+    "type": "Fruit",
+    "answer": "GUARANTEE"
   },
   {
     "index": 180,
-    "soal": "A-P-O-M-P",
-    "tipe": "Benda",
-    "jawaban": "POMPA"
+    "question": "APOMP",
+    "type": "Object",
+    "answer": "PUMP"
   },
   {
     "index": 181,
-    "soal": "A-M-U-J-R",
-    "tipe": "Benda",
-    "jawaban": "JARUM"
+    "question": "AMUJR",
+    "type": "Object",
+    "answer": "NEW"
   },
   {
     "index": 182,
-    "soal": "S-K-E-E-T",
-    "tipe": "Benda",
-    "jawaban": "KESET"
+    "question": "SKEET",
+    "type": "Object",
+    "answer": "MATTER"
   },
   {
     "index": 183,
-    "soal": "A-U-B-A-Y",
-    "tipe": "Hewan",
-    "jawaban": "BUAYA"
+    "question": "AUBAY",
+    "type": "Animal",
+    "answer": "Crocodile"
   },
   {
     "index": 184,
-    "soal": "I-T-A-S-K",
-    "tipe": "Benda",
-    "jawaban": "SIKAT"
+    "question": "ITASK",
+    "type": "Object",
+    "answer": "BRUSH"
   },
   {
     "index": 185,
-    "soal": "M-O-T-A-T",
-    "tipe": "Buah",
-    "jawaban": "TOMAT"
+    "question": "MOTAT",
+    "type": "Fruit",
+    "answer": "TOMATO"
   },
   {
     "index": 186,
-    "soal": "K-E-R-T-O",
-    "tipe": "Benda",
-    "jawaban": "ROKET"
+    "question": "KERTO",
+    "type": "Object",
+    "answer": "ROCKET"
   },
   {
     "index": 187,
-    "soal": "T-A-K-E-R",
-    "tipe": "Benda",
-    "jawaban": "RAKET"
+    "question": "TAKER",
+    "type": "Object",
+    "answer": "RACKET"
   },
   {
     "index": 188,
-    "soal": "M-E-T-R-O",
-    "tipe": "Benda",
-    "jawaban": "REMOT"
+    "question": "METRO",
+    "type": "Object",
+    "answer": "REMOT"
   },
   {
     "index": 189,
-    "soal": "B-E-L-A-H",
-    "tipe": "Hewan",
-    "jawaban": "LEBAH"
+    "question": "PLEASE",
+    "type": "Animal",
+    "answer": "BEES"
   },
   {
     "index": 190,
-    "soal": "C-I-A-K-C",
-    "tipe": "Hewan",
-    "jawaban": "CICAK"
+    "question": "CIAKC",
+    "type": "Animal",
+    "answer": "LICK"
   },
   {
     "index": 191,
-    "soal": "A-K-G-A-G",
-    "tipe": "Hewan",
-    "jawaban": "GAGAK"
+    "question": "AKGAG",
+    "type": "Animal",
+    "answer": "RAW"
   },
   {
     "index": 192,
-    "soal": "L-A-S-K-A",
-    "tipe": "Buah",
-    "jawaban": "SALAK"
+    "question": "LASKA",
+    "type": "Fruit",
+    "answer": "SALAK"
   },
   {
     "index": 193,
-    "soal": "B-A-S-K-A",
-    "tipe": "Benda",
-    "jawaban": "ASBAK"
+    "question": "BASKA",
+    "type": "Object",
+    "answer": "ashtray"
   },
   {
     "index": 194,
-    "soal": "L-O-B-T-O",
-    "tipe": "Benda",
-    "jawaban": "BOTOL"
+    "question": "LOBTO",
+    "type": "Object",
+    "answer": "BOTTLE"
   },
   {
     "index": 195,
-    "soal": "G-A-B-O-N",
-    "tipe": "Hewan",
-    "jawaban": "BANGO"
+    "question": "GABON",
+    "type": "Animal",
+    "answer": "BANGO"
   },
   {
     "index": 196,
-    "soal": "C-O-K-E-A",
-    "tipe": "Hewan",
-    "jawaban": "KECOA"
+    "question": "COKEA",
+    "type": "Animal",
+    "answer": "COCKROACHE"
   },
   {
     "index": 197,
-    "soal": "P-U-T-I-A",
-    "tipe": "Hewan",
-    "jawaban": "TUPAI"
+    "question": "PUTIA",
+    "type": "Animal",
+    "answer": "Squirrel"
   },
   {
     "index": 198,
-    "soal": "B-A-O-I-L",
-    "tipe": "Benda",
-    "jawaban": "BIOLA"
+    "question": "BAOIL",
+    "type": "Object",
+    "answer": "Violin"
   },
   {
     "index": 199,
-    "soal": "A-K-A-L-O",
-    "tipe": "Hewan",
-    "jawaban": "KOALA"
+    "question": "AKALO",
+    "type": "Animal",
+    "answer": "KOALA"
   },
   {
     "index": 200,
-    "soal": "S-I-B-U-K",
-    "tipe": "Sayuran",
-    "jawaban": "KUBIS"
+    "question": "BUSY",
+    "type": "Vegetable",
+    "answer": "CABE"
   },
   {
     "index": 201,
-    "soal": "A-B-A-M-Y",
-    "tipe": "Sayuran",
-    "jawaban": "BAYAM"
+    "question": "ABAMY",
+    "type": "Vegetable",
+    "answer": "Spinach"
   },
   {
     "index": 202,
-    "soal": "M-U-R-A-J",
-    "tipe": "Sayuran",
-    "jawaban": "JAMUR"
+    "question": "MURAJ",
+    "type": "Vegetable",
+    "answer": "MUSHROOM"
   },
   {
     "index": 203,
-    "soal": "L-I-U-K-A",
-    "tipe": "Benda",
-    "jawaban": "KUALI"
+    "question": "LIUKA",
+    "type": "Object",
+    "answer": "KALI"
   },
   {
     "index": 204,
-    "soal": "S-A-G-A-N",
-    "tipe": "Hewan",
-    "jawaban": "ANGSA"
+    "question": "SAGAN",
+    "type": "Animal",
+    "answer": "GOOD"
   },
   {
     "index": 205,
-    "soal": "N-A-B-O-D",
-    "tipe": "Benda",
-    "jawaban": "BANDO"
+    "question": "NABOD",
+    "type": "Object",
+    "answer": "BANDO"
   },
   {
     "index": 206,
-    "soal": "S-T-A-K-E",
-    "tipe": "Benda",
-    "jawaban": "KASET"
+    "question": "STAKE",
+    "type": "Object",
+    "answer": "TAPE"
   },
   {
     "index": 207,
-    "soal": "G-A-P-A-R",
-    "tipe": "Benda",
-    "jawaban": "PAGAR"
+    "question": "GAPAR",
+    "type": "Object",
+    "answer": "FENCE"
   },
   {
     "index": 208,
-    "soal": "K-U-R-A-N",
-    "tipe": "Hewan",
-    "jawaban": "RAKUN"
+    "question": "KURAN",
+    "type": "Animal",
+    "answer": "raccoon"
   },
   {
     "index": 209,
-    "soal": "B-L-A-K-E",
-    "tipe": "Benda",
-    "jawaban": "KABEL"
+    "question": "BLAKE",
+    "type": "Object",
+    "answer": "CABLE"
   },
   {
     "index": 210,
-    "soal": "B-R-O-T-O",
-    "tipe": "Benda",
-    "jawaban": "ROBOT"
+    "question": "BROTO",
+    "type": "Object",
+    "answer": "ROBOTS"
   },
   {
     "index": 211,
-    "soal": "G-A-E-L-S",
-    "tipe": "Benda",
-    "jawaban": "GELAS"
+    "question": "GAELS",
+    "type": "Object",
+    "answer": "GLASS"
   },
   {
     "index": 212,
-    "soal": "P-I-S-K-A",
-    "tipe": "Benda",
-    "jawaban": "KIPAS"
+    "question": "PISKA",
+    "type": "Object",
+    "answer": "FAN"
   },
   {
     "index": 213,
-    "soal": "K-E-R-O-K",
-    "tipe": "Benda",
-    "jawaban": "KOREK"
+    "question": "CRACK",
+    "type": "Object",
+    "answer": "CORRECT"
   },
   {
     "index": 214,
-    "soal": "A-L-O-N-G",
-    "tipe": "Benda",
-    "jawaban": "GALON"
+    "question": "ALONG",
+    "type": "Object",
+    "answer": "GALLON"
   },
   {
     "index": 215,
-    "soal": "A-C-I-N-D",
-    "tipe": "Benda",
-    "jawaban": "CANDI"
+    "question": "ACIND",
+    "type": "Object",
+    "answer": "TEMPLE"
   },
   {
     "index": 216,
-    "soal": "E-N-Y-U-P",
-    "tipe": "Hewan",
-    "jawaban": "PENYU"
+    "question": "ENYUP",
+    "type": "Animal",
+    "answer": "TURTLE"
   },
   {
     "index": 217,
-    "soal": "A-P-I-O-N",
-    "tipe": "Benda",
-    "jawaban": "PIANO"
+    "question": "APION",
+    "type": "Object",
+    "answer": "PIANO"
   },
   {
     "index": 218,
-    "soal": "R-U-R-I-K",
-    "tipe": "Pekerjaan",
-    "jawaban": "KURIR"
+    "question": "RURIK",
+    "type": "Job",
+    "answer": "COURIER"
   },
   {
     "index": 219,
-    "soal": "P-U-S-R-I",
-    "tipe": "Pekerjaan",
-    "jawaban": "SUPIR"
+    "question": "PUSRI",
+    "type": "Job",
+    "answer": "DRIVER"
   },
   {
     "index": 220,
-    "soal": "A-K-R-I-S",
-    "tipe": "Pekerjaan",
-    "jawaban": "KASIR"
+    "question": "AKRIS",
+    "type": "Job",
+    "answer": "CASHER"
   },
   {
     "index": 221,
-    "soal": "L-A-T-T-E",
-    "tipe": "Profesi",
-    "jawaban": "ATLET"
+    "question": "LATTE",
+    "type": "Profession",
+    "answer": "ATLET"
   },
   {
     "index": 222,
-    "soal": "P-I-K-E-R",
-    "tipe": "Profesi",
-    "jawaban": "KIPER"
+    "question": "PIKER",
+    "type": "Profession",
+    "answer": "GOALKER"
   },
   {
     "index": 223,
-    "soal": "W-A-I-T-S",
-    "tipe": "Profesi",
-    "jawaban": "WASIT"
+    "question": "WAITS",
+    "type": "Profession",
+    "answer": "Referee"
   },
   {
     "index": 224,
-    "soal": "B-I-B-A-T",
-    "tipe": "Pekerjaan",
-    "jawaban": "TABIB"
+    "question": "BIBAT",
+    "type": "Job",
+    "answer": "HEALTHER"
   },
   {
     "index": 225,
-    "soal": "R-I-K-U-S",
-    "tipe": "Pekerjaan",
-    "jawaban": "KUSIR"
+    "question": "RIKUS",
+    "type": "Job",
+    "answer": "COLLER"
   },
   {
     "index": 226,
-    "soal": "H-A-N-T-U",
-    "tipe": "Tempat",
-    "jawaban": "HUTAN"
+    "question": "Ghost",
+    "type": "Place",
+    "answer": "Forest"
   },
   {
     "index": 227,
-    "soal": "D-R-A-U-P",
-    "tipe": "Tempat",
-    "jawaban": "DAPUR"
+    "question": "DRAUP",
+    "type": "Place",
+    "answer": "KITCHEN"
   },
   {
     "index": 228,
-    "soal": "M-A-N-T-A",
-    "tipe": "Tempat",
-    "jawaban": "TAMAN"
+    "question": "MANTA",
+    "type": "Place",
+    "answer": "GARDEN"
   },
   {
     "index": 229,
-    "soal": "P-A-R-A-S",
-    "tipe": "Tempat",
-    "jawaban": "PASAR"
+    "question": "PARAS",
+    "type": "Place",
+    "answer": "MARKET"
   },
   {
     "index": 230,
-    "soal": "B-A-K-E-O-N",
-    "tipe": "Benda",
-    "jawaban": "BONEKA"
+    "question": "BAKEON",
+    "type": "Object",
+    "answer": "DOLL"
   },
   {
     "index": 231,
-    "soal": "J-A-K-E-M-E",
-    "tipe": "Benda",
-    "jawaban": "KEMEJA"
+    "question": "JAKEME",
+    "type": "Object",
+    "answer": "SHIRT"
   },
   {
     "index": 232,
-    "soal": "G-I-A-N-U-A",
-    "tipe": "Hewan",
-    "jawaban": "IGUANA"
+    "question": "GIANUA",
+    "type": "Animal",
+    "answer": "IGUANA"
   },
   {
     "index": 233,
-    "soal": "H-A-R-E-U-P",
-    "tipe": "Benda",
-    "jawaban": "PERAHU"
+    "question": "HAREUP",
+    "type": "Object",
+    "answer": "BOAT"
   },
   {
     "index": 234,
-    "soal": "A-M-A-K-E-R",
-    "tipe": "Benda",
-    "jawaban": "KAMERA"
+    "question": "AMAKER",
+    "type": "Object",
+    "answer": "CAMERA"
   },
   {
     "index": 235,
-    "soal": "D-A-P-E-S-E",
-    "tipe": "Benda",
-    "jawaban": "SEPEDA"
+    "question": "DAPESE",
+    "type": "Object",
+    "answer": "BIKE"
   },
   {
     "index": 236,
-    "soal": "R-E-T-A-K-E",
-    "tipe": "Benda",
-    "jawaban": "KERETA"
+    "question": "RETAKE",
+    "type": "Object",
+    "answer": "TRAIN"
   },
   {
     "index": 237,
-    "soal": "G-U-I-T-A-R",
-    "tipe": "Hewan",
-    "jawaban": "GURITA"
+    "question": "GUITAR",
+    "type": "Animal",
+    "answer": "octopus"
   },
   {
     "index": 238,
-    "soal": "A-P-E-P-A-Y",
-    "tipe": "Buah",
-    "jawaban": "PEPAYA"
+    "question": "APEPAY",
+    "type": "Fruit",
+    "answer": "PAPAYA"
   },
   {
     "index": 239,
-    "soal": "A-K-L-U-N-G",
-    "tipe": "Benda",
-    "jawaban": "KALUNG"
+    "question": "AKLUNG",
+    "type": "Object",
+    "answer": "NECKET"
   },
   {
     "index": 240,
-    "soal": "N-A-T-A-N-E",
-    "tipe": "Benda",
-    "jawaban": "ANTENA"
+    "question": "NATANE",
+    "type": "Object",
+    "answer": "ANTENNA"
   },
   {
     "index": 241,
-    "soal": "G-R-A-N-G-U",
-    "tipe": "Buah",
-    "jawaban": "ANGGUR"
+    "question": "GRANGU",
+    "type": "Fruit",
+    "answer": "WINE"
   },
   {
     "index": 242,
-    "soal": "C-R-A-S-K-I",
-    "tipe": "Benda",
-    "jawaban": "KARCIS"
+    "question": "CRASKI",
+    "type": "Object",
+    "answer": "CARTICS"
   },
   {
     "index": 243,
-    "soal": "P-E-G-S-E-R",
-    "tipe": "Benda",
-    "jawaban": "GESPER"
+    "question": "PEGSER",
+    "type": "Object",
+    "answer": "BUCKLE"
   },
   {
     "index": 244,
-    "soal": "A-G-N-A-K-C",
-    "tipe": "Sayuran",
-    "jawaban": "KACANG"
+    "question": "AGNAKC",
+    "type": "Vegetable",
+    "answer": "NUTS"
   },
   {
     "index": 245,
-    "soal": "J-I-G-K-A-N",
-    "tipe": "Hewan",
-    "jawaban": "KIJANG"
+    "question": "JIGKAN",
+    "type": "Animal",
+    "answer": "DEER"
   },
   {
     "index": 246,
-    "soal": "N-A-G-W-A-G",
-    "tipe": "Benda",
-    "jawaban": "GAWANG"
+    "question": "NAGWAG",
+    "type": "Object",
+    "answer": "WITCH"
   },
   {
     "index": 247,
-    "soal": "K-O-D-O-M-O",
-    "tipe": "Hewan",
-    "jawaban": "KOMODO"
+    "question": "KODOMO",
+    "type": "Animal",
+    "answer": "KOMODO"
   },
   {
     "index": 248,
-    "soal": "G-L-U-I-N-G",
-    "tipe": "Benda",
-    "jawaban": "GULING"
+    "question": "GLUING",
+    "type": "Object",
+    "answer": "ROLL"
   },
   {
     "index": 249,
-    "soal": "A-N-G-Y-G-U",
-    "tipe": "Benda",
-    "jawaban": "GAYUNG"
+    "question": "ANGYGU",
+    "type": "Object",
+    "answer": "DIY"
   },
   {
     "index": 250,
-    "soal": "G-E-R-N-O-T",
-    "tipe": "Sayuran",
-    "jawaban": "TERONG"
+    "question": "GERNOT",
+    "type": "Vegetable",
+    "answer": "EACH"
   },
   {
     "index": 251,
-    "soal": "N-A-T-I-N-G",
-    "tipe": "Benda",
-    "jawaban": "ANTING"
+    "question": "NATING",
+    "type": "Object",
+    "answer": "EARRINGS"
   },
   {
     "index": 252,
-    "soal": "K-R-O-O-M-P",
-    "tipe": "Benda",
-    "jawaban": "KOMPOR"
+    "question": "KROOMP",
+    "type": "Object",
+    "answer": "STOVE"
   },
   {
     "index": 253,
-    "soal": "M-U-S-P-I-T",
-    "tipe": "Benda",
-    "jawaban": "SUMPIT"
+    "question": "MUSPIT",
+    "type": "Object",
+    "answer": "SUMPIT"
   },
   {
     "index": 254,
-    "soal": "D-E-M-O-P-T",
-    "tipe": "Benda",
-    "jawaban": "DOMPET"
+    "question": "DEMOPT",
+    "type": "Object",
+    "answer": "WALLET"
   },
   {
     "index": 255,
-    "soal": "A-G-N-I-C-C",
-    "tipe": "Hewan",
-    "jawaban": "CACING"
+    "question": "AGNICC",
+    "type": "Animal",
+    "answer": "WORMS"
   },
   {
     "index": 256,
-    "soal": "C-U-P-A-N-G",
-    "tipe": "Hewan",
-    "jawaban": "CAPUNG"
+    "question": "Hickey",
+    "type": "Animal",
+    "answer": "DRAGON"
   },
   {
     "index": 257,
-    "soal": "G-M-K-O-B-E",
-    "tipe": "Benda",
-    "jawaban": "GEMBOK"
+    "question": "GMKOBE",
+    "type": "Object",
+    "answer": "LOCK"
   },
   {
     "index": 258,
-    "soal": "G-A-N-B-U-K",
-    "tipe": "Benda",
-    "jawaban": "BANGKU"
+    "question": "BUT",
+    "type": "Object",
+    "answer": "BENCH"
   },
   {
     "index": 259,
-    "soal": "C-C-I-I-N-N",
-    "tipe": "Benda",
-    "jawaban": "CINCIN"
+    "question": "CCIINN",
+    "type": "Object",
+    "answer": "RING"
   },
   {
     "index": 260,
-    "soal": "D-O-S-K-E-N",
-    "tipe": "Benda",
-    "jawaban": "SENDOK"
+    "question": "DOSKEN",
+    "type": "Object",
+    "answer": "SCOOP"
   },
   {
     "index": 261,
-    "soal": "G-R-O-L-O-B",
-    "tipe": "Benda",
-    "jawaban": "BORGOL"
+    "question": "GROLOB",
+    "type": "Object",
+    "answer": "Cufflinks"
   },
   {
     "index": 262,
-    "soal": "C-A-L-K-I-N",
-    "tipe": "Hewan",
-    "jawaban": "KANCIL"
+    "question": "CALKIN",
+    "type": "Animal",
+    "answer": "deer"
   },
   {
     "index": 263,
-    "soal": "L-O-W-E-R-T",
-    "tipe": "Sayuran",
-    "jawaban": "WORTEL"
+    "question": "LOWERT",
+    "type": "Vegetable",
+    "answer": "CARROTLE"
   },
   {
     "index": 264,
-    "soal": "E-T-O-N-M-Y",
-    "tipe": "Hewan",
-    "jawaban": "MONYET"
+    "question": "ETONMY",
+    "type": "Animal",
+    "answer": "MONKEY"
   },
   {
     "index": 265,
-    "soal": "A-N-I-T-R-A",
-    "tipe": "Benda",
-    "jawaban": "RANTAI"
+    "question": "ANITRA",
+    "type": "Object",
+    "answer": "CHAIN"
   },
   {
     "index": 266,
-    "soal": "J-U-G-N-A-G",
-    "tipe": "Sayuran",
-    "jawaban": "JAGUNG"
+    "question": "JUGNAG",
+    "type": "Vegetable",
+    "answer": "CORN"
   },
   {
     "index": 267,
-    "soal": "A-R-I-P-K-T",
-    "tipe": "Hewan",
-    "jawaban": "PARKIT"
+    "question": "ARIPKT",
+    "type": "Animal",
+    "answer": "PARKIT"
   },
   {
     "index": 268,
-    "soal": "G-U-S-M-A-N",
-    "tipe": "Hewan",
-    "jawaban": "MUSANG"
+    "question": "GUSMAN",
+    "type": "Animal",
+    "answer": "WEASE"
   },
   {
     "index": 269,
-    "soal": "A-N-D-A-K-L",
-    "tipe": "Hewan",
-    "jawaban": "LANDAK"
+    "question": "ANDAKL",
+    "type": "Animal",
+    "answer": "Hedgehog"
   },
   {
     "index": 270,
-    "soal": "B-I-C-N-U-S",
-    "tipe": "Sayuran",
-    "jawaban": "BUNCIS"
+    "question": "BICNUS",
+    "type": "Vegetable",
+    "answer": "BEANS"
   },
   {
     "index": 271,
-    "soal": "M-E-D-I-A-L",
-    "tipe": "Buah",
-    "jawaban": "DELIMA"
+    "question": "MEDIAL",
+    "type": "Fruit",
+    "answer": "POLEM"
   },
   {
     "index": 272,
-    "soal": "M-A-R-C-I-E",
-    "tipe": "Buah",
-    "jawaban": "CERMAI"
+    "question": "MARCIE",
+    "type": "Fruit",
+    "answer": "MIRE"
   },
   {
     "index": 273,
-    "soal": "G-A-N-G-M-A",
-    "tipe": "Buah",
-    "jawaban": "MANGGA"
+    "question": "GANGMA",
+    "type": "Fruit",
+    "answer": "MANGO"
   },
   {
     "index": 274,
-    "soal": "A-K-B-A-W-I",
-    "tipe": "Hewan",
-    "jawaban": "BIAWAK"
+    "question": "AKBAWI",
+    "type": "Animal",
+    "answer": "BIAWAK"
   },
   {
     "index": 275,
-    "soal": "C-A-K-E-P-I",
-    "tipe": "Benda",
-    "jawaban": "KECAPI"
+    "question": "CAKEPI",
+    "type": "Object",
+    "answer": "harp"
   },
   {
     "index": 276,
-    "soal": "E-L-G-A-N-G",
-    "tipe": "Benda",
-    "jawaban": "GELANG"
+    "question": "ELGANG",
+    "type": "Object",
+    "answer": "BRACELET"
   },
   {
     "index": 277,
-    "soal": "A-N-N-A-K-G",
-    "tipe": "Buah",
-    "jawaban": "NANGKA"
+    "question": "ANNAKG",
+    "type": "Fruit",
+    "answer": "WAKE"
   },
   {
     "index": 278,
-    "soal": "S-K-A-S-R-I",
-    "tipe": "Buah",
-    "jawaban": "SIRSAK"
+    "question": "SKASRI",
+    "type": "Fruit",
+    "answer": "soursop"
   },
   {
     "index": 279,
-    "soal": "R-E-S-E-N-T",
-    "tipe": "Benda",
-    "jawaban": "SENTER"
+    "question": "RESENT",
+    "type": "Object",
+    "answer": "FLASH"
   },
   {
     "index": 280,
-    "soal": "P-A-N-G-E-D",
-    "tipe": "Benda",
-    "jawaban": "PEDANG"
+    "question": "PANGED",
+    "type": "Object",
+    "answer": "SWORD"
   },
   {
     "index": 281,
-    "soal": "G-A-T-A-N-G",
-    "tipe": "Benda",
-    "jawaban": "TANGGA"
+    "question": "STEM",
+    "type": "Object",
+    "answer": "STAIRS"
   },
   {
     "index": 282,
-    "soal": "H-E-A-R-U-P",
-    "tipe": "Benda",
-    "jawaban": "PERAHU"
+    "question": "HEARUP",
+    "type": "Object",
+    "answer": "BOAT"
   },
   {
     "index": 283,
-    "soal": "A-K-A-K-P-M",
-    "tipe": "Benda",
-    "jawaban": "KAMPAK"
+    "question": "AKAKPM",
+    "type": "Object",
+    "answer": "KAMP"
   },
   {
     "index": 284,
-    "soal": "I-S-P-O-I-L",
-    "tipe": "Profesi",
-    "jawaban": "POLISI"
+    "question": "ISPOIL",
+    "type": "Profession",
+    "answer": "POLICE"
   },
   {
     "index": 285,
-    "soal": "L-E-T-A-P-U",
-    "tipe": "Profesi",
-    "jawaban": "PELAUT"
+    "question": "LETAPU",
+    "type": "Profession",
+    "answer": "SAIER"
   },
   {
     "index": 286,
-    "soal": "A-W-L-P-O-N",
-    "tipe": "Profesi",
-    "jawaban": "POLWAN"
+    "question": "AWLPON",
+    "type": "Profession",
+    "answer": "POLWAN"
   },
   {
     "index": 287,
-    "soal": "R-U-S-S-E-T",
-    "tipe": "Profesi",
-    "jawaban": "SUSTER"
+    "question": "RUSSET",
+    "type": "Profession",
+    "answer": "Sister"
   },
   {
     "index": 288,
-    "soal": "I-L-K-I-N-K",
-    "tipe": "Tempat",
-    "jawaban": "KLINIK"
+    "question": "ILKINK",
+    "type": "Place",
+    "answer": "CLINIC"
   },
   {
     "index": 289,
-    "soal": "T-O-P-E-K-A",
-    "tipe": "Tempat",
-    "jawaban": "APOTEK"
+    "question": "TOPEKA",
+    "type": "Place",
+    "answer": "PHARMACEUTICAL"
   },
   {
     "index": 290,
-    "soal": "K-A-R-T-O-N",
-    "tipe": "Tempat",
-    "jawaban": "KANTOR"
+    "question": "CARTOON",
+    "type": "Place",
+    "answer": "OFFICE"
   },
   {
     "index": 291,
-    "soal": "G-U-N-W-A-R",
-    "tipe": "Tempat",
-    "jawaban": "WARUNG"
+    "question": "GUNWAR",
+    "type": "Place",
+    "answer": "STOP"
   },
   {
     "index": 292,
-    "soal": "G-U-N-G-U-N",
-    "tipe": "Tempat",
-    "jawaban": "GUNUNG"
+    "question": "MOUNT",
+    "type": "Place",
+    "answer": "MOUNTAIN"
   },
   {
     "index": 293,
-    "soal": "B-A-R-K-I-P",
-    "tipe": "Tempat",
-    "jawaban": "PABRIK"
+    "question": "BARKIP",
+    "type": "Place",
+    "answer": "FACTORY"
   },
   {
     "index": 294,
-    "soal": "I-C-E-L-I-N-K",
-    "tipe": "Hewan",
-    "jawaban": "KELINCI"
+    "question": "ICELINK",
+    "type": "Animal",
+    "answer": "RABBIT"
   },
   {
     "index": 295,
-    "soal": "K-I-R-A-S-E-T",
-    "tipe": "Benda",
-    "jawaban": "SETRIKA"
+    "question": "KIRASET",
+    "type": "Object",
+    "answer": "IRON"
   },
   {
     "index": 296,
-    "soal": "G-A-N-T-K-E-N",
-    "tipe": "Sayuran",
-    "jawaban": "KENTANG"
+    "question": "GANTKEN",
+    "type": "Vegetable",
+    "answer": "POTATOES"
   },
   {
     "index": 297,
-    "soal": "G-I-N-G-U-T-N",
-    "tipe": "Benda",
-    "jawaban": "GUNTING"
+    "question": "GINGUTN",
+    "type": "Object",
+    "answer": "Scissors"
   },
   {
     "index": 298,
-    "soal": "G-A-N-G-N-E-D",
-    "tipe": "Benda",
-    "jawaban": "GENDANG"
+    "question": "GANGNED",
+    "type": "Object",
+    "answer": "DANG"
   },
   {
     "index": 299,
-    "soal": "A-H-A-W-S",
-    "tipe": "Tempat",
-    "jawaban": "SAWAH"
+    "question": "AHAWS",
+    "type": "Place",
+    "answer": "RICE"
   },
   {
     "index": 300,
-    "soal": "B-U-N-G-K-A-M",
-    "tipe": "Hewan",
-    "jawaban": "KUMBANG"
+    "question": "SILENCE",
+    "type": "Animal",
+    "answer": "BEETLE"
   },
   {
     "index": 301,
-    "soal": "C-A-N-K-I-N-G",
-    "tipe": "Benda",
-    "jawaban": "KANCING"
+    "question": "CANKING",
+    "type": "Object",
+    "answer": "BUTTON"
   },
   {
     "index": 302,
-    "soal": "G-A-S-M-I-N-G",
-    "tipe": "Buah",
-    "jawaban": "MANGGIS"
+    "question": "GASMING",
+    "type": "Fruit",
+    "answer": "MANGIS"
   },
   {
     "index": 303,
-    "soal": "R-A-C-K-I-N-G",
-    "tipe": "Benda",
-    "jawaban": "CANGKIR"
+    "question": "RACKING",
+    "type": "Object",
+    "answer": "CUP"
   },
   {
     "index": 304,
-    "soal": "G-L-E-N-N-C-O",
-    "tipe": "Benda",
-    "jawaban": "LONCENG"
+    "question": "GLENNCO",
+    "type": "Object",
+    "answer": "BELL"
   },
   {
     "index": 305,
-    "soal": "A-S-A-W-E-P-T",
-    "tipe": "Benda",
-    "jawaban": "PESAWAT"
+    "question": "ASAWEPT",
+    "type": "Object",
+    "answer": "Airplane"
   },
   {
     "index": 306,
-    "soal": "B-R-O-K-A-G-E",
-    "tipe": "Benda",
-    "jawaban": "GEROBAK"
+    "question": "BROKAGE",
+    "type": "Object",
+    "answer": "WARD"
   },
   {
     "index": 307,
-    "soal": "L-U-C-K-N-A-G",
-    "tipe": "Benda",
-    "jawaban": "CANGKUL"
+    "question": "LUCKNAG",
+    "type": "Object",
+    "answer": "HOE"
   },
   {
     "index": 308,
-    "soal": "D-E-I-A-L-E-K",
-    "tipe": "Hewan",
-    "jawaban": "KELEDAI"
+    "question": "DEIALEK",
+    "type": "Animal",
+    "answer": "Donkey"
   },
   {
     "index": 309,
-    "soal": "A-L-P-O-M-I-N",
-    "tipe": "Benda",
-    "jawaban": "LAMPION"
+    "question": "ALPOMIN",
+    "type": "Object",
+    "answer": "LAMPION"
   },
   {
     "index": 310,
-    "soal": "K-A-R-A-P-I-P",
-    "tipe": "Sayuran",
-    "jawaban": "PAPRIKA"
+    "question": "KARAPIP",
+    "type": "Vegetable",
+    "answer": "paprika"
   },
   {
     "index": 311,
-    "soal": "K-O-L-O-R-I-B",
-    "tipe": "Sayuran",
-    "jawaban": "BROKOLI"
+    "question": "COLORIB",
+    "type": "Vegetable",
+    "answer": "BROCOLI"
   },
   {
     "index": 312,
-    "soal": "A-I-A-R-H-U-M",
-    "tipe": "Hewan",
-    "jawaban": "HARIMAU"
+    "question": "AIARHUM",
+    "type": "Animal",
+    "answer": "TIGER"
   },
   {
     "index": 313,
-    "soal": "J-O-I-N-M-E-L",
-    "tipe": "Sayuran",
-    "jawaban": "MELINJO"
+    "question": "JOINMEL",
+    "type": "Vegetable",
+    "answer": "MELINJO"
   },
   {
     "index": 314,
-    "soal": "M-A-R-I-S-K-A",
-    "tipe": "Buah",
-    "jawaban": "MARKISA"
+    "question": "MARISKA",
+    "type": "Fruit",
+    "answer": "MARKISA"
   },
   {
     "index": 315,
-    "soal": "J-A-G-K-N-A-R",
-    "tipe": "Benda",
-    "jawaban": "JANGKAR"
+    "question": "JAGKAR",
+    "type": "Object",
+    "answer": "ANCHOR"
   },
   {
     "index": 316,
-    "soal": "E-K-E-K-M-S-E",
-    "tipe": "Buah",
-    "jawaban": "KESEMEK"
+    "question": "EKEKMSE",
+    "type": "Fruit",
+    "answer": "persimmon"
   },
   {
     "index": 317,
-    "soal": "R-I-S-A-Y-A-K",
-    "tipe": "Buah",
-    "jawaban": "SRIKAYA"
+    "question": "RISAYAK",
+    "type": "Fruit",
+    "answer": "SRIKAYA"
   },
   {
     "index": 318,
-    "soal": "N-O-M-I-T-O-R",
-    "tipe": "Benda",
-    "jawaban": "MONITOR"
+    "question": "NOMITOR",
+    "type": "Object",
+    "answer": "MONITOR"
   },
   {
     "index": 319,
-    "soal": "G-A-N-K-M-U-K",
-    "tipe": "Benda",
-    "jawaban": "MANGKUK"
+    "question": "GANKMUK",
+    "type": "Object",
+    "answer": "BOOK"
   },
   {
     "index": 320,
-    "soal": "T-A-N-A-G-E-R",
-    "tipe": "Benda",
-    "jawaban": "GERANAT"
+    "question": "TANAGER",
+    "type": "Object",
+    "answer": "GRACE"
   },
   {
     "index": 321,
-    "soal": "A-J-I-G-G-E-R",
-    "tipe": "Benda",
-    "jawaban": "GERGAJI"
+    "question": "AJIGGER",
+    "type": "Object",
+    "answer": "SAW"
   },
   {
     "index": 322,
-    "soal": "L-E-A-N-A-N-Y",
-    "tipe": "Profesi",
-    "jawaban": "NELAYAN"
+    "question": "LEANANY",
+    "type": "Profession",
+    "answer": "FISHERMAN"
   },
   {
     "index": 323,
-    "soal": "L-U-K-E-P-I-S",
-    "tipe": "Profesi",
-    "jawaban": "PELUKIS"
+    "question": "LUKEPIS",
+    "type": "Profession",
+    "answer": "PAINT"
   },
   {
     "index": 324,
-    "soal": "S-I-M-I-A-N-S",
-    "tipe": "Profesi",
-    "jawaban": "MASINIS"
+    "question": "SIMIANS",
+    "type": "Profession",
+    "answer": "MACHINE"
   },
   {
     "index": 325,
-    "soal": "I-N-K-I-E-S-T",
-    "tipe": "Profesi",
-    "jawaban": "TEKNISI"
+    "question": "INKIEST",
+    "type": "Profession",
+    "answer": "TECHNICIAN"
   },
   {
     "index": 326,
-    "soal": "E-T-A-T-R-A-N",
-    "tipe": "Profesi",
-    "jawaban": "TENTARA"
+    "question": "ETATRAN",
+    "type": "Profession",
+    "answer": "SOLDIER"
   },
   {
     "index": 327,
-    "soal": "P-E-T-A-W-A-R",
-    "tipe": "Profesi",
-    "jawaban": "PERAWAT"
+    "question": "BETWEEN",
+    "type": "Profession",
+    "answer": "NURSE"
   },
   {
     "index": 328,
-    "soal": "A-L-A-N-Y-E-P",
-    "tipe": "Pekerjaan",
-    "jawaban": "PELAYAN"
+    "question": "ALANYEP",
+    "type": "Job",
+    "answer": "SERVANT"
   },
   {
     "index": 329,
-    "soal": "A-D-A-H-K-O-N",
-    "tipe": "Pekerjaan",
-    "jawaban": "NAHKODA"
+    "question": "ADAHKON",
+    "type": "Job",
+    "answer": "CHOPPER"
   },
   {
     "index": 330,
-    "soal": "J-E-N-I-P-U-T",
-    "tipe": "Profesi",
-    "jawaban": "PETINJU"
+    "question": "JENIPUT",
+    "type": "Profession",
+    "answer": "BOXER"
   },
   {
     "index": 331,
-    "soal": "A-D-I-T-N-O-S",
-    "tipe": "Tempat",
-    "jawaban": "STADION"
+    "question": "ADITNOS",
+    "type": "Place",
+    "answer": "STADION"
   },
   {
     "index": 332,
-    "soal": "A-K-A-K-A-T-K-U",
-    "tipe": "Hewan",
-    "jawaban": "KAKAKTUA"
+    "question": "MY AKAKAT",
+    "type": "Animal",
+    "answer": "COASTER"
   },
   {
     "index": 333,
-    "soal": "O-R-B-I-T-E-R-S",
-    "tipe": "Buah",
-    "jawaban": "STROBERI"
+    "question": "ORBITERS",
+    "type": "Fruit",
+    "answer": "Strawberry"
   },
   {
     "index": 334,
-    "soal": "A-C-T-A-K-A-M-A",
-    "tipe": "Benda",
-    "jawaban": "KACAMATA"
+    "question": "ACTAKAMA",
+    "type": "Object",
+    "answer": "GLASSES"
   },
   {
     "index": 335,
-    "soal": "L-E-V-I-T-I-E-S",
-    "tipe": "Benda",
-    "jawaban": "TELEVISI"
+    "question": "LEVITIES",
+    "type": "Object",
+    "answer": "TV"
   },
   {
     "index": 336,
-    "soal": "G-U-N-K-K-N-A-G",
-    "tipe": "SayuraN",
-    "jawaban": "KANGKUNG"
+    "question": "GUNKKNAG",
+    "type": "VegetableN",
+    "answer": "KANGKUNG"
   },
   {
     "index": 337,
-    "soal": "L-A-B-E-L-N-A-G",
-    "tipe": "Hewan",
-    "jawaban": "BELALANG"
+    "question": "LABELNAG",
+    "type": "Animal",
+    "answer": "GRASTIC"
   },
   {
     "index": 338,
-    "soal": "A-J-A-W-L-I-A-R",
-    "tipe": "Hewan",
-    "jawaban": "RAJAWALI"
+    "question": "AJAWLIAR",
+    "type": "Animal",
+    "answer": "KING"
   },
   {
     "index": 339,
-    "soal": "G-I-T-I-N-P-E-K",
-    "tipe": "Hewan",
-    "jawaban": "KEPITING"
+    "question": "GITINPEK",
+    "type": "Animal",
+    "answer": "CRAB"
   },
   {
     "index": 340,
-    "soal": "G-R-U-S-L-I-N-E",
-    "tipe": "Benda",
-    "jawaban": "SERULING"
+    "question": "GRUSLINE",
+    "type": "Object",
+    "answer": "FUSE"
   },
   {
     "index": 341,
-    "soal": "N-A-B-T-A-K-E-N",
-    "tipe": "Hewan",
-    "jawaban": "BEKANTAN"
+    "question": "NABTAKEN",
+    "type": "Animal",
+    "answer": "proboscis monkey"
   },
   {
     "index": 342,
-    "soal": "C-O-N-G-M-E-E-K",
-    "tipe": "Benda",
-    "jawaban": "KEMOCENG"
+    "question": "CONMEEK",
+    "type": "Object",
+    "answer": "FUCK"
   },
   {
     "index": 343,
-    "soal": "M-E-T-P-E-R-O-T",
-    "tipe": "Benda",
-    "jawaban": "TEROMPET"
+    "question": "METPEROT",
+    "type": "Object",
+    "answer": "trumpet"
   },
   {
     "index": 344,
-    "soal": "G-U-N-K-L-A-N-G",
-    "tipe": "Benda",
-    "jawaban": "ANGKLUNG"
+    "question": "GUNKLANG",
+    "type": "Object",
+    "answer": "ANGKLUNG"
   },
   {
     "index": 345,
-    "soal": "A-N-N-Y-Y-I-P-E",
-    "tipe": "Profesi",
-    "jawaban": "PENYANYI"
+    "question": "ANNYYIPE",
+    "type": "Profession",
+    "answer": "SINGER"
   },
   {
     "index": 346,
-    "soal": "D-A-N-G-P-A-G-E",
-    "tipe": "Pekerjaan",
-    "jawaban": "PEDAGANG"
+    "question": "DANGPAGE",
+    "type": "Job",
+    "answer": "TRADERS"
   },
   {
     "index": 347,
-    "soal": "D-R-U-K-I-T-E-R",
-    "tipe": "Profesi",
-    "jawaban": "DIREKTUR"
+    "question": "DRUKITER",
+    "type": "Profession",
+    "answer": "DIRECTOR"
   },
   {
     "index": 348,
-    "soal": "D-E-N-E-P-R-I-S",
-    "tipe": "Profesi",
-    "jawaban": "PRESIDEN"
+    "question": "DENEPRIS",
+    "type": "Profession",
+    "answer": "PRESIDENT"
   },
   {
     "index": 349,
-    "soal": "S-I-N-N-Y-U-R-I",
-    "tipe": "Profesi",
-    "jawaban": "INSINYUR"
+    "question": "SINNYURI",
+    "type": "Profession",
+    "answer": "ENGINEER"
   },
   {
     "index": 350,
-    "soal": "A-R-E-L-M-I-N-T",
-    "tipe": "Tempat",
-    "jawaban": "TERMINAL"
+    "question": "ARELMINT",
+    "type": "Place",
+    "answer": "TERMINAL"
   },
   {
     "index": 351,
-    "soal": "A-R-N-I-P-A-R-K",
-    "tipe": "Tempat",
-    "jawaban": "PARKIRAN"
+    "question": "ARNIPARK",
+    "type": "Place",
+    "answer": "PARKING"
   },
   {
     "index": 352,
-    "soal": "A-N-T-R-O-R-S-E",
-    "tipe": "Tempat",
-    "jawaban": "RESTORAN"
+    "question": "ANTRORSE",
+    "type": "Place",
+    "answer": "RESTAURANT"
   }
 ]
